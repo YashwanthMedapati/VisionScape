@@ -27,4 +27,4 @@ The model's performance is evaluated using various classification metrics, inclu
 This project demonstrates a practical application of deep learning in image classification, which can be utilized in various real-world scenarios. One such scenario is automatic tagging of natural scene images for easier organization and search, making it valuable for image management systems and photo-sharing platforms.
 
 
-Happy classifying  -vivek_raj
+Happy classifying!!
